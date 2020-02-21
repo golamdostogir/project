@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" type="text/css" href="images/images.png">
+	<title>I AM GOLAM ZELANE</title>
+	<link rel="stylesheet" type="text/css" href="css\style.css">
+		
+</head>
+<body>
+
+
+
+Lorem ipsum <i>dolor sit <span class="am">am</span>et, consectetur</i> adipisicing elit, sed do eiusmod0
+	tempor incididunt ut<span class="tt">tt</span>labore et dolore magna aliqua. <br>Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in <strong>reprehenderit</strong> in <b>voluptate</b>
+</body>
+</html>
